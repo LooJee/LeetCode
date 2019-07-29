@@ -11,5 +11,5 @@ func twoSum(nums []int, target int) []int {
 			numDict[nums[i]] = i
 		}
 	}
-	return []int{}
+	return nil
 }
