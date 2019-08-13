@@ -11,4 +11,5 @@ leetcode solution
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/plusOne/plusOne.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MergeSortedArray/MergeSortedArray.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangle/PascalsTriangle.go) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.go) | Easy |
 
