@@ -10,4 +10,5 @@ leetcode solution
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/SearchInsertPosition/SearchInsertPosition.go) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/plusOne/plusOne.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MergeSortedArray/MergeSortedArray.go) | Easy |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangle/PascalsTriangle.go) | Easy |
 
