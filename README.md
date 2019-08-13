@@ -16,4 +16,5 @@ leetcode solution
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/BestTimetoBuyandSellStockII/BestTimetoBuyandSellStockII.go) | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/TwoSumII/TwoSumII.go) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MajorityElement/MajorityElement.go) | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/RotateArray/RotateArray.go) | Easy |
 
