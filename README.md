@@ -26,4 +26,5 @@ leetcode solution
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MaxConsecutiveOnes/MaxConsecutiveOnes.go) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/FibonacciNumber/FibonacciNumber.go) | Easy |
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/KdiffPairsinanArray/KdiffPairsinanArray.go) | Easy |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ArrayPartitionI/ArrayPartitionI.go) | Easy |
 
