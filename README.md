@@ -18,4 +18,5 @@ leetcode solution
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MajorityElement/MajorityElement.go) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/RotateArray/RotateArray.go) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ContainsDuplicate/ContainsDuplicate.go) | Easy |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ContainsDuplicateII/ContainsDuplicateII.go) | Easy |
 
