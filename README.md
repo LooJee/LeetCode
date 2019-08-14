@@ -23,4 +23,5 @@ leetcode solution
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MoveZeroes/MoveZeroes.go) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ThirdMaximumNumber/ThirdMaximumNumber.go) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray.go) | Easy |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MaxConsecutiveOnes/MaxConsecutiveOnes.go) | Easy |
 
