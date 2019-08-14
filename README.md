@@ -20,4 +20,5 @@ leetcode solution
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ContainsDuplicate/ContainsDuplicate.go) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ContainsDuplicateII/ContainsDuplicateII.go) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MissingNumber/MissingNumber.go) | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MoveZeroes/MoveZeroes.go) | Easy |
 
