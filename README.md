@@ -28,4 +28,5 @@ leetcode solution
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/KdiffPairsinanArray/KdiffPairsinanArray.go) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ArrayPartitionI/ArrayPartitionI.go) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/can_place_flowers/can_place_flowers.go) | Easy |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximum_product_of_three_numbers/maximum_product_of_three_numbers.go) | Easy |
 
