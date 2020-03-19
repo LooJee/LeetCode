@@ -9,7 +9,7 @@ func generate(numRows int) [][]int {
 		a[i] = 1
 
 		for j := 1; j < i; j++ {
-			a[j] = r[i-1][j-1]+r[i-1][j]
+			a[j] = r[i-1][j-1] + r[i-1][j]
 		}
 
 		r[i] = a

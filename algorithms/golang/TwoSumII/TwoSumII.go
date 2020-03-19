@@ -11,7 +11,7 @@ func twoSum(numbers []int, target int) []int {
 	for i != j {
 		sum := numbers[i] + numbers[j]
 		if sum == target {
-			ret = []int{i+1, j+1}
+			ret = []int{i + 1, j + 1}
 			break
 		} else if sum < target {
 			i++

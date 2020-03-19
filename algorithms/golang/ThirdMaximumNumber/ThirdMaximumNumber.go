@@ -3,7 +3,7 @@ package ThirdMaximumNumber
 /*这解法真是太傻了。。。*/
 func thirdMax(nums []int) int {
 	a := make([]int, 0, 3)
-	for _,  v := range nums {
+	for _, v := range nums {
 		if len(a) == 0 {
 			a = append(a, v)
 		} else if len(a) > 0 && v > a[0] {

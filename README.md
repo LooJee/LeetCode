@@ -31,4 +31,5 @@ leetcode solution
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximum_product_of_three_numbers/maximum_product_of_three_numbers.go) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximum_average_subarray_i/maximum_average_subarray_i.go) | Easy |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/non_decreasing_array/non_decreasing_array.go) | Easy |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/longest_continuous_increasing_subsequence/longest_continuous_increasing_subsequence.go) | Easy |
 

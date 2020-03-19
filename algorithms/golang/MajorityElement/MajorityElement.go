@@ -9,7 +9,7 @@ func majorityElement(nums []int) int {
 		if !ok {
 			m[ele] = 1
 		} else {
-			m[ele] = v+1
+			m[ele] = v + 1
 		}
 
 		if v+1 > len(nums)/2 {

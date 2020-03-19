@@ -12,4 +12,3 @@ func arrayPairSum(nums []int) int {
 
 	return sum
 }
-

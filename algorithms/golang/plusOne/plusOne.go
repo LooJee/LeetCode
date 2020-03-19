@@ -4,8 +4,8 @@ func plusOne(digits []int) []int {
 	lenth := len(digits)
 	carry := 1
 
-	for i := lenth-1; i >= 0; i-- {
-		j := digits[i]+carry
+	for i := lenth - 1; i >= 0; i-- {
+		j := digits[i] + carry
 		if j > 9 {
 			//有进位则继续和高位相加
 			digits[i] = j % 10

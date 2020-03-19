@@ -28,11 +28,11 @@ Constraints:
 */
 
 func main() {
-	fmt.Println(checkPossibility([]int{4,2,3}))
-	fmt.Println(checkPossibility([]int{4,2,1}))
-	fmt.Println(checkPossibility([]int{3,4,2,3}))
-	fmt.Println(checkPossibility([]int{-1,4,2,3}))
-	fmt.Println(checkPossibility([]int{1,3,5,2,4}))
+	fmt.Println(checkPossibility([]int{4, 2, 3}))
+	fmt.Println(checkPossibility([]int{4, 2, 1}))
+	fmt.Println(checkPossibility([]int{3, 4, 2, 3}))
+	fmt.Println(checkPossibility([]int{-1, 4, 2, 3}))
+	fmt.Println(checkPossibility([]int{1, 3, 5, 2, 4}))
 }
 
 func checkPossibility(nums []int) bool {

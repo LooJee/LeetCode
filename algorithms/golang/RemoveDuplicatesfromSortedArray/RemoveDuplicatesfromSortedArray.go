@@ -11,7 +11,5 @@ func removeDuplicates(nums []int) int {
 		}
 	}
 
-	return j+1
+	return j + 1
 }
-
-

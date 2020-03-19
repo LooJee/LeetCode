@@ -12,7 +12,7 @@ func findPairs(nums []int, k int) int {
 		if cnt, ok := m[v]; ok {
 			if k == 0 && cnt < 2 {
 				pairs++
-				m[v] = cnt+1
+				m[v] = cnt + 1
 			}
 			continue
 		}

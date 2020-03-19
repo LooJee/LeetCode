@@ -6,7 +6,7 @@ func containsNearbyDuplicate(nums []int, k int) bool {
 	for i := 0; i < len(nums); i++ {
 		if idx, ok := m[nums[i]]; !ok {
 			m[nums[i]] = i
-		} else if i - idx <= k {
+		} else if i-idx <= k {
 			return true
 		} else {
 			m[nums[i]] = i
