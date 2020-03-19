@@ -34,4 +34,5 @@ leetcode solution
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/longest_continuous_increasing_subsequence/longest_continuous_increasing_subsequence.go) | Easy |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/degree_of_an_array/degree_of_an_array.go) | Easy |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/one_bit_and_two_bit_characters/one_bit_and_two_bit_characters.go) | Easy |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_pivot_index/find_pivot_index.go) | Easy |
 
