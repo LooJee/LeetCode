@@ -30,4 +30,5 @@ leetcode solution
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/can_place_flowers/can_place_flowers.go) | Easy |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximum_product_of_three_numbers/maximum_product_of_three_numbers.go) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximum_average_subarray_i/maximum_average_subarray_i.go) | Easy |
+| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/non_decreasing_array/non_decreasing_array.go) | Easy |
 
