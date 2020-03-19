@@ -28,18 +28,17 @@ bits[i] is always 0 or 1.
 func main() {
 	fmt.Println(isOneBitCharacter([]int{1, 0, 0}))
 	fmt.Println(isOneBitCharacter([]int{1, 1, 1, 0}))
+	fmt.Println(isOneBitCharacter([]int{0}))
 }
 
 func isOneBitCharacter(bits []int) bool {
-	for i := 0; i < len(bits); {
-		if bits[i] == 0 {
+	for i := 0; i < len(bits); i++ {
+		if bits[i] == 1 {
 			i++
-		} else if i < len(bits)-2 {
-			i += 2
-		} else {
-			return false
+		} else if bits[i] == 0 && i == len(bits)-1 {
+			return true
 		}
 	}
 
-	return true
+	return false
 }
