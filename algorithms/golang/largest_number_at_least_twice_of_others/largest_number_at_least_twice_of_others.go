@@ -54,7 +54,7 @@ func dominantIndex(nums []int) int {
 		}
 	}
 
-	if max1 >= max2 * 2 {
+	if max1 >= max2*2 {
 		return idx1
 	}
 

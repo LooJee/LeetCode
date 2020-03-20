@@ -45,7 +45,7 @@ func pivotIndex(nums []int) int {
 		leftSum += v
 
 		// sum - leftSum + v = rightSum
-		if leftSum == sum - leftSum + v {
+		if leftSum == sum-leftSum+v {
 			return idx
 		}
 	}
