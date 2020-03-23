@@ -39,14 +39,14 @@ func largeGroupPositions(S string) [][]int {
 	for i := 1; i < len(S); i++ {
 		if S[i] != S[sIdx] {
 			if i-sIdx-1 >= 2 {
-				lg = append(lg, []int{sIdx, i-1})
+				lg = append(lg, []int{sIdx, i - 1})
 			}
 			sIdx = i
 		}
 	}
 
-	if S[len(S)-1] == S[sIdx] && len(S) - sIdx >= 3 {
-		lg = append(lg, []int{sIdx, len(S)-1})
+	if S[len(S)-1] == S[sIdx] && len(S)-sIdx >= 3 {
+		lg = append(lg, []int{sIdx, len(S) - 1})
 	}
 
 	return lg

@@ -40,4 +40,5 @@ leetcode solution
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/toeplitz_matrix/toeplitz_matrix.go) | Easy |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/positions_of_large_groups/positions_of_large_groups.go) | Easy |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/flipping_an_image/flipping_an_image.go) | Easy |
+| 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximize_distance_to_closest_person/maximize_distance_to_closest_person.go) | Easy |
 
