@@ -17,7 +17,7 @@ Output: [[1,4],[2,5],[3,6]]
 */
 
 func main() {
-	fmt.Println(transpose([][]int{{1,2,3},{4,5,6},{7,8,9}}))
+	fmt.Println(transpose([][]int{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}))
 }
 
 func transpose(A [][]int) [][]int {

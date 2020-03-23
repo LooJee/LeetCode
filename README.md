@@ -42,4 +42,5 @@ leetcode solution
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/flipping_an_image/flipping_an_image.go) | Easy |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximize_distance_to_closest_person/maximize_distance_to_closest_person.go) | Easy |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/transpose_matrix/transpose_matrix.go) | Easy |
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/fair_candy_swap/fair_candy_swap.go) | Easy |
 
