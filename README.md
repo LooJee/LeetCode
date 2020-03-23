@@ -46,4 +46,5 @@ leetcode solution
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/monotonic_array/monotonic_array.go) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sort_array_by_parity/sort_array_by_parity.go) | Easy |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/x_of_a_kind_in_a_deck_of_cards/x_of_a_kind_in_a_deck_of_cards.go) | Easy |
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sort_array_by_parity_ii/sort_array_by_parity_ii.go) | Easy |
 
