@@ -44,4 +44,5 @@ leetcode solution
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/transpose_matrix/transpose_matrix.go) | Easy |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/fair_candy_swap/fair_candy_swap.go) | Easy |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/monotonic_array/monotonic_array.go) | Easy |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sort_array_by_parity/sort_array_by_parity.go) | Easy |
 
