@@ -45,4 +45,5 @@ leetcode solution
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/fair_candy_swap/fair_candy_swap.go) | Easy |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/monotonic_array/monotonic_array.go) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sort_array_by_parity/sort_array_by_parity.go) | Easy |
+| 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/x_of_a_kind_in_a_deck_of_cards/x_of_a_kind_in_a_deck_of_cards.go) | Easy |
 
