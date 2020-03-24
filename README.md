@@ -48,4 +48,5 @@ leetcode solution
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/x_of_a_kind_in_a_deck_of_cards/x_of_a_kind_in_a_deck_of_cards.go) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sort_array_by_parity_ii/sort_array_by_parity_ii.go) | Easy |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/valid_mountain_array/valid_mountain_array.go) | Easy |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/squares_of_a_sorted_array/squares_of_a_sorted_array.go) | Easy |
 
