@@ -27,7 +27,7 @@ Note:
 */
 
 func main() {
-	fmt.Println(sumEvenAfterQueries([]int{1,2,3,4}, [][]int{
+	fmt.Println(sumEvenAfterQueries([]int{1, 2, 3, 4}, [][]int{
 		{1, 0},
 		{-3, 1},
 		{-4, 0},
@@ -39,7 +39,7 @@ func sumEvenAfterQueries(A []int, queries [][]int) []int {
 	B := make([]int, 0, len(A))
 	evenSum := 0
 	for i := 0; i < len(A); i++ {
-		if A[i] % 2 == 0 {
+		if A[i]%2 == 0 {
 			evenSum += A[i]
 		}
 	}
@@ -47,11 +47,11 @@ func sumEvenAfterQueries(A []int, queries [][]int) []int {
 	for i := 0; i < len(queries); i++ {
 		tmp := A[queries[i][1]]
 		A[queries[i][1]] += queries[i][0]
-		if tmp % 2 == 0 {
+		if tmp%2 == 0 {
 			evenSum -= tmp
 		}
 
-		if A[queries[i][1]] % 2 == 0 {
+		if A[queries[i][1]]%2 == 0 {
 			evenSum += A[queries[i][1]]
 		}
 

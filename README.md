@@ -50,4 +50,5 @@ leetcode solution
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/valid_mountain_array/valid_mountain_array.go) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/squares_of_a_sorted_array/squares_of_a_sorted_array.go) | Easy |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sum_of_even_numbers_after_queries/sum_of_even_numbers_after_queries.go) | Easy |
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/add_to_array_form_of_integer/add_to_array_form_of_integer.go) | Easy |
 
