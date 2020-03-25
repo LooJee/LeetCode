@@ -38,7 +38,7 @@ func canThreePartsEqualSum(A []int) bool {
 		sum += v
 	}
 
-	if sum % 3 != 0 {
+	if sum%3 != 0 {
 		return false
 	}
 

@@ -35,7 +35,7 @@ func main() {
 	fmt.Println(prefixesDivBy5([]int{1, 1, 1}))
 	fmt.Println(prefixesDivBy5([]int{0, 1, 1, 1, 1, 1}))
 	fmt.Println(prefixesDivBy5([]int{1, 1, 1, 0, 1}))
-	fmt.Println(prefixesDivBy5([]int{1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0}))
+	fmt.Println(prefixesDivBy5([]int{1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0}))
 }
 
 func prefixesDivBy5(A []int) []bool {
@@ -43,7 +43,7 @@ func prefixesDivBy5(A []int) []bool {
 	ret := make([]bool, 0, len(A))
 
 	for _, v := range A {
-		decNum = (decNum << 1 | v) % 5
+		decNum = (decNum<<1 | v) % 5
 		ret = append(ret, decNum == 0)
 	}
 
