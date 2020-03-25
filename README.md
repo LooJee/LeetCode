@@ -54,4 +54,5 @@ leetcode solution
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/available_captures_for_rook/available_captures_for_rook.go) | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_common_characters/find_common_characters.go) | Easy |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/num_pairs_divisible_by60/num_pairs_divisible_by60.go) | Easy |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/partition_array_into_three_parts_with_equal_sum/partition_array_into_three_parts_with_equal_sum.go) | Easy |
 
