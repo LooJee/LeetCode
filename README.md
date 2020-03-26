@@ -58,4 +58,5 @@ leetcode solution
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/binary_prefix_divisible_by_5/binary_prefix_divisible_by_5.go) | Easy |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/height_checker/height_checker.go) | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/duplicate_zeros/duplicate_zeros.go) | Easy |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/relative_sort_array/relative_sort_array.go) | Easy |
 
