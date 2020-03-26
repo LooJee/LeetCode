@@ -24,24 +24,21 @@ func main() {
 	duplicateZeros([]int{1, 0, 2, 3, 0, 4, 5, 0})
 	duplicateZeros([]int{1, 0, 0, 0, 2, 3})
 	duplicateZeros([]int{0, 1, 7, 6, 0, 2, 0, 7})
+	duplicateZeros([]int{8, 4, 5, 0, 0, 0, 0, 7})
 }
 
 func duplicateZeros(arr []int) {
-	zCnt := 0
+	B := make([]int, 0)
 
-	for i := 0; i < len(arr)-zCnt; i++ {
-		if arr[i] == 0 {
-			zCnt++
+	for _, v := range arr {
+		if v == 0 {
+			B = append(B, v, v)
+		} else {
+			B = append(B, v)
 		}
 	}
 
-	for i := len(arr) - 1; i > 0; i-- {
-		if arr[i-zCnt] != 0 {
-			arr[i] = arr[i-zCnt]
-		} else {
-			arr[i] = 0
-			i--
-			arr[i] = 0
-		}
+	for i := 0; i < len(arr); i++ {
+		arr[i] = B[i]
 	}
 }
