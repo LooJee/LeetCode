@@ -60,4 +60,5 @@ leetcode solution
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/duplicate_zeros/duplicate_zeros.go) | Easy |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/relative_sort_array/relative_sort_array.go) | Easy |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/number_of_equivalent_domino_pairs/number_of_equivalent_domino_pairs.go) | Easy |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_words_that_can_be_formed_by_characters/find_words_that_can_be_formed_by_characters.go) | Easy |
 
