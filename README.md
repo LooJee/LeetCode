@@ -59,4 +59,5 @@ leetcode solution
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/height_checker/height_checker.go) | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/duplicate_zeros/duplicate_zeros.go) | Easy |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/relative_sort_array/relative_sort_array.go) | Easy |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/number_of_equivalent_domino_pairs/number_of_equivalent_domino_pairs.go) | Easy |
 
