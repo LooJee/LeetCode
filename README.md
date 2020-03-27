@@ -63,4 +63,5 @@ leetcode solution
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_words_that_can_be_formed_by_characters/find_words_that_can_be_formed_by_characters.go) | Easy |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/compare_strings_by_frequency_of_the_smallest_character/compare_strings_by_frequency_of_the_smallest_character.go) | Easy |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/distance_between_bus_stops/distance_between_bus_stops.go) | Easy |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/day_of_the_week/day_of_the_week.go) | Easy |
 
