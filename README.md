@@ -61,4 +61,5 @@ leetcode solution
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/relative_sort_array/relative_sort_array.go) | Easy |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/number_of_equivalent_domino_pairs/number_of_equivalent_domino_pairs.go) | Easy |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_words_that_can_be_formed_by_characters/find_words_that_can_be_formed_by_characters.go) | Easy |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/compare_strings_by_frequency_of_the_smallest_character/compare_strings_by_frequency_of_the_smallest_character.go) | Easy |
 
