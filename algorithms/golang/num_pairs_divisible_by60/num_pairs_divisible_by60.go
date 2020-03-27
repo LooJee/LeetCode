@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
 In a list of songs, the i-th song has a duration of time[i] seconds.
 Return the number of pairs of songs for which their total duration in seconds is divisible by 60.
@@ -24,9 +26,19 @@ Note:
 */
 
 func main() {
-
+	fmt.Println(numPairsDivisibleBy60([]int{30, 20, 150, 100, 40}))
+	fmt.Println(numPairsDivisibleBy60([]int{60, 60, 60}))
 }
 
 func numPairsDivisibleBy60(time []int) int {
+	cnt := 0
+	for i := 0; i < len(time); i++ {
+		for j := i + 1; j < len(time); j++ {
+			if (time[i]+time[j])%60 == 0 {
+				cnt++
+			}
+		}
+	}
 
+	return cnt
 }
