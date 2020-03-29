@@ -66,4 +66,5 @@ leetcode solution
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/day_of_the_week/day_of_the_week.go) | Easy |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/minimum_absolute_difference/minimum_absolute_difference.go) | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/check_if_it_is_a_straight_line/check_if_it_is_a_straight_line.go) | Easy |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/shift_2d_grid/shift_2d_grid.go) | Easy |
 
