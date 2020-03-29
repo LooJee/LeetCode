@@ -33,6 +33,7 @@ n == grid[i].length
 
 func main() {
 	fmt.Println(shiftGrid([][]int{{1,2,3},{4,5,6},{7,8,9}}, 1))
+	fmt.Println(shiftGrid([][]int{{3,8,1,9},{19,7,2,5},{4,6,11,10},{12,0,21,13}}, 4))
 }
 
 func shiftGrid(grid [][]int, k int) [][]int {
@@ -43,9 +44,7 @@ func shiftGrid(grid [][]int, k int) [][]int {
 
 	for i := 0; i < len(grid); i++ {
 		for j := 0; j < len(grid[0]); j++ {
-			fmt.Println(((k+i)/len(grid[0]))%len(grid))
-			fmt.Println((k+j)%len(grid[0]))
-			ret[((k+i)/len(grid[0]))%len(grid)][(k+j)%len(grid[0])] = grid[i][j]
+			ret[((k+j)/len(grid[0])+i) % len(grid)][(k+j)%len(grid[0])] = grid[i][j]
 		}
 	}
 
