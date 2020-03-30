@@ -68,4 +68,5 @@ leetcode solution
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/check_if_it_is_a_straight_line/check_if_it_is_a_straight_line.go) | Easy |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/shift_2d_grid/shift_2d_grid.go) | Easy |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/minimum_time_visiting_all_points/minimum_time_visiting_all_points.go) | Easy |
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_winner_on_a_tic_tac_toe_game/find_winner_on_a_tic_tac_toe_game.go) | Easy |
 
