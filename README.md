@@ -70,4 +70,5 @@ leetcode solution
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/minimum_time_visiting_all_points/minimum_time_visiting_all_points.go) | Easy |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_winner_on_a_tic_tac_toe_game/find_winner_on_a_tic_tac_toe_game.go) | Easy |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/element_appearing_more_than_25_in_sorted_array/element_appearing_more_than_25_in_sorted_array.go) | Easy |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_numbers_with_even_number_of_digits/find_numbers_with_even_number_of_digits.go) | Easy |
 
