@@ -74,4 +74,5 @@ leetcode solution
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace_elements_with_greatest_element_on_right_side/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/replace_elements_with_greatest_element_on_right_side/replace_elements_with_greatest_element_on_right_side.go) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_n_unique_integers_sum_up_to_zero/find_n_unique_integers_sum_up_to_zero.go) | Easy |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/decompress_run_length_encoded_list/decompress_run_length_encoded_list.go) | Easy |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/rank_transform_of_an_array/rank_transform_of_an_array.go) | Easy |
 
