@@ -43,9 +43,11 @@ func arrayRankTransform(arr []int) []int {
 
 	ret = append(ret, arr...)
 	sort.Ints(ret)
+	rank := 1
 	for idx, val := range ret {
 		if v, ok := dict[val]; ok && v > idx+1 || !ok {
-			dict[val] = idx + 1
+			dict[val] = rank
+			rank++
 		}
 	}
 
