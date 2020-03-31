@@ -79,4 +79,5 @@ leetcode solution
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/check_if_n_and_its_double_exist/check_if_n_and_its_double_exist.go) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/count_negative_numbers_in_a_sorted_matrix/count_negative_numbers_in_a_sorted_matrix.go) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/lucky_numbers_in_a_matrix/lucky_numbers_in_a_matrix.go) | Easy |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_the_distance_value_between_two_arrays/find_the_distance_value_between_two_arrays.go) | Easy |
 
