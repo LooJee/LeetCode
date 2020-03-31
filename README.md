@@ -75,4 +75,5 @@ leetcode solution
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_n_unique_integers_sum_up_to_zero/find_n_unique_integers_sum_up_to_zero.go) | Easy |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/decompress_run_length_encoded_list/decompress_run_length_encoded_list.go) | Easy |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/rank_transform_of_an_array/rank_transform_of_an_array.go) | Easy |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/the_k_weakest_rows_in_a_matrix/the_k_weakest_rows_in_a_matrix.go) | Easy |
 
