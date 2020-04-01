@@ -82,4 +82,5 @@ leetcode solution
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/lucky_numbers_in_a_matrix/lucky_numbers_in_a_matrix.go) | Easy |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_the_distance_value_between_two_arrays/find_the_distance_value_between_two_arrays.go) | Easy |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/create_target_array_in_the_given_order/create_target_array_in_the_given_order.go) | Easy |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/find_lucky_integer_in_an_array/find_lucky_integer_in_an_array.go) | Easy |
 
