@@ -15,6 +15,7 @@ leetcode solution
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangleII/PascalsTriangleII.go) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.go) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/BestTimetoBuyandSellStockII/BestTimetoBuyandSellStockII.go) | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/valid_palindrome/valid_palindrome.go) | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/TwoSumII/TwoSumII.go) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MajorityElement/MajorityElement.go) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/RotateArray/RotateArray.go) | Easy |
