@@ -51,7 +51,7 @@ func strStr(haystack string, needle string) int {
 			}
 		}
 
-		i += j-k
+		i += j - k
 	}
 
 	return -1

@@ -33,8 +33,8 @@ func isAlphaNumeric(c uint8) bool {
 func isPalindrome(s string) bool {
 	lowerCase := 'A' - 'a'
 	i := 0
-	j := len(s)-1
-	for ; i <= j; {
+	j := len(s) - 1
+	for i <= j {
 		vi := s[i]
 		vj := s[j]
 
