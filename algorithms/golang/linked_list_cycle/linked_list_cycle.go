@@ -20,7 +20,7 @@ func hasCycle(head *ListNode) bool {
 		slowP = slowP.Next
 
 		if quickP == slowP {
-			return truex
+			return true
 		}
 	}
 
