@@ -8,6 +8,7 @@ leetcode solution
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PalindromeNumber/palindrome_number.go) | Easy |
 | 13 | [Roman To Int](https://leetcode.com/problems/roman-to-int/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/roman_to_int/roman_to_int.go) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/longest_common_prefix/longest_common_prefix.go) | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/valid_parentheses/valid_parentheses.go) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MergeTwoSortedLists/MergeTwoSortedLists.go) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.go) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/RemoveElement/RemoveElement.go) | Easy |
