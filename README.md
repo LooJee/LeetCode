@@ -15,6 +15,7 @@ leetcode solution
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/implement_strstr/implement_strstr.go) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/SearchInsertPosition/SearchInsertPosition.go) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/maximum_subarray/maximum_subarray.go) | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/length_of_last_word/length_of_last_word.go) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/plusOne/plusOne.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MergeSortedArray/MergeSortedArray.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangle/PascalsTriangle.go) | Easy |
