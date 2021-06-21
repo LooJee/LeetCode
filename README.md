@@ -18,6 +18,7 @@ leetcode solution
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/length_of_last_word/length_of_last_word.go) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/plusOne/plusOne.go) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/add_binary/add_binary.go) | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sqrtx/sqrtx.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MergeSortedArray/MergeSortedArray.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangle/PascalsTriangle.go) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangleII/PascalsTriangleII.go) | Easy |
