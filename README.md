@@ -23,6 +23,7 @@ leetcode solution
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/remove-duplicates-from-sorted-list/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MergeSortedArray/MergeSortedArray.go) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/binary_tree_inorder_traversal/binary_tree_inorder_traversal.go) | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/same_tree/same_tree.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangle/PascalsTriangle.go) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangleII/PascalsTriangleII.go) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.go) | Easy |
