@@ -20,6 +20,7 @@ leetcode solution
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/add_binary/add_binary.go) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/sqrtx/sqrtx.go) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/climbing-stairs/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/climbing_stairs/climbing_stairs.go) | Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/remove-duplicates-from-sorted-list/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MergeSortedArray/MergeSortedArray.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangle/PascalsTriangle.go) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PascalsTriangleII/PascalsTriangleII.go) | Easy |
