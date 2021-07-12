@@ -35,6 +35,7 @@ leetcode solution
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.go) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/BestTimetoBuyandSellStockII/BestTimetoBuyandSellStockII.go) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/valid_palindrome/valid_palindrome.go) | Easy |
+| 136 | [Single Number](https://leetcode.com/problems/single_number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/single_number/single_number.go) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/linked_list_cycle/linked_list_cycle.go) | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/TwoSumII/TwoSumII.go) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MajorityElement/MajorityElement.go) | Easy |
@@ -42,7 +43,7 @@ leetcode solution
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ContainsDuplicate/ContainsDuplicate.go) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ContainsDuplicateII/ContainsDuplicateII.go) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MissingNumber/MissingNumber.go) | Easy |
-| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/h_index_ii/h_index_ii.go) | Easy |
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/h_index_ii/h_index_ii.go) | Middle |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MoveZeroes/MoveZeroes.go) | Easy |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/binary_watch/binary_watch.go) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ThirdMaximumNumber/ThirdMaximumNumber.go) | Easy |
