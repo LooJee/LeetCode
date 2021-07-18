@@ -38,6 +38,7 @@ leetcode solution
 | 136 | [Single Number](https://leetcode.com/problems/single_number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/single_number/single_number.go) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/linked_list_cycle/linked_list_cycle.go) | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/binary_tree_preorder_traversal/binary_tree_preorder_traversal.go) | Easy |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/binary_tree_postorder_traversal/binary_tree_postorder_traversal.go) | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/TwoSumII/TwoSumII.go) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MajorityElement/MajorityElement.go) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/RotateArray/RotateArray.go) | Easy |
