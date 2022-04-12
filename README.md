@@ -45,6 +45,7 @@ leetcode solution
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/RotateArray/RotateArray.go) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/ContainsDuplicate/ContainsDuplicate.go) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/contains_duplicate_ii/contains_duplicate_ii.go) | Easy |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary_ranges/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/summary_ranges/summary_ranges.go) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MissingNumber/MissingNumber.go) | Easy |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/h_index_ii/h_index_ii.go) | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/MoveZeroes/MoveZeroes.go) | Easy |
