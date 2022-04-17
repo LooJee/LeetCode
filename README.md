@@ -4,7 +4,8 @@ leetcode solution
 | # | Title | Solution | Difficulty |
 | ---- | ---- | ---- | ----|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/TwoSum/TwoSum.go) | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/add_two_numbers/add_two_numbers.go) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/add_two_numbers/add_two_numbers.go) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/reverse/reverse.go) | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/PalindromeNumber/palindrome_number.go) | Easy |
 | 13 | [Roman To Int](https://leetcode.com/problems/roman-to-int/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/roman_to_int/roman_to_int.go) | Easy |
