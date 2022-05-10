@@ -133,7 +133,8 @@ leetcode solution
 
 # 剑指offer
 
-| #   | Title | Solution                                                                                                                        | Difficulty |
-|-----|-----|---------------------------------------------------------------------------------------------------------------------------------|------------|
+| #   | Title | Solution                                                                                                            | Difficulty |
+|-----|-----|---------------------------------------------------------------------------------------------------------------------|------------|
 | 9   | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/queue_by_two_stack/queue_by_two_stack.go) | Easy |
+| 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)          | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_min_stack/lcof_min_stack.go)     | Easy |
 
