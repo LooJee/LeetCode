@@ -135,6 +135,7 @@ leetcode solution
 
 | #   | Title | Solution                                                                                                            | Difficulty |
 |-----|-----|---------------------------------------------------------------------------------------------------------------------|------------|
+| 6   | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/lcof_reverse_print/lcof_reverse_print.go) | Easy |
 | 9   | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/queue_by_two_stack/queue_by_two_stack.go) | Easy |
-| 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)          | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_min_stack/lcof_min_stack.go)     | Easy |
+| 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)          | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_min_stack/lcof_min_stack.go)         | Easy |
 
