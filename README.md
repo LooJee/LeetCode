@@ -138,6 +138,7 @@ leetcode solution
 
 | #   | Title                                                                              | Solution                                                                                                                    | Difficulty |
 |-----|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------|
+| 5   | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)                         | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/lcof_replace_space/lcof_replace_space.go)         | Easy       |
 | 6   | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)   | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/lcof_reverse_print/lcof_reverse_print.go)         | Easy       |
 | 9   | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/queue_by_two_stack/queue_by_two_stack.go)         | Easy       |
 | 24  | [反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)                     | [golang](https://github.com/LooJee/LeetCode/blob/master/algorithms/golang/lcof_reverse_list/lcof_reverse_list.go)           | Easy       |
