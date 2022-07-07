@@ -184,4 +184,5 @@ leetcode solution
 | 58    | [左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)                                            | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_reverse_left_words/lcof_reverse_left_words.go)                 | Easy       |
 | 61    | [扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)                                           | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_is_straight/lcof_is_straight.go)                               | Easy       |
 | 63    | [股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/)                                             | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_max_profit/lcof_max_profit.go)                                 | Medium     |
+| 64    | [求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/)                                                             | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_sum_nums/lcof_sum_nums.go)                                     | Medium     |
 
