@@ -10,26 +10,24 @@ type ListNode struct {
 }
 
 func partition(head *ListNode, x int) *ListNode {
-	if head == nil {
-		return nil
-	}
+	var (
+		left, right       = &ListNode{}, &ListNode{}
+		leftTmp, rightTmp = left, right
+	)
 
-	smaller := &ListNode{}
-	sp := smaller
-	bigger := &ListNode{}
-	bp := bigger
-
-	for t := head; t != nil; t = t.Next {
-		if t.Val < x {
-			sp.Next = t
-			sp = sp.Next
+	for head != nil {
+		if head.Val < x {
+			leftTmp.Next = head
+			leftTmp = leftTmp.Next
 		} else {
-			bp.Next = t
-			bp = bp.Next
+			rightTmp.Next = head
+			rightTmp = right.Next
 		}
+		head = head.Next
 	}
-	bp.Next = nil
-	sp.Next = bigger.Next
 
-	return smaller.Next
+	leftTmp.Next = right.Next
+	rightTmp.Next = nil
+
+	return left.Next
 }

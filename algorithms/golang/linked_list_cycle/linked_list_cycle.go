@@ -6,14 +6,13 @@ type ListNode struct {
 }
 
 func hasCycle(head *ListNode) bool {
-	quickP := head
-	slowP := head
+	quick, slow := head, head
 
-	for quickP != nil && quickP.Next != nil {
-		quickP = quickP.Next.Next
-		slowP = slowP.Next
+	for quick != nil && quick.Next != nil {
+		quick = quick.Next.Next
+		slow = slow.Next
 
-		if quickP == slowP {
+		if quick == slow {
 			return true
 		}
 	}
