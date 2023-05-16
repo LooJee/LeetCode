@@ -13,14 +13,21 @@ type ListNode struct {
  * }
  */
 func deleteDuplicates(head *ListNode) *ListNode {
-	p := head
+	if head == nil {
+		return nil
+	}
+
+	var p, q = head, head
 
 	for p != nil {
-		for p.Next != nil && p.Next.Val == p.Val {
-			p.Next = p.Next.Next
+		if p.Val != q.Val {
+			q.Next = p
+			q = p
 		}
 		p = p.Next
 	}
+
+	q.Next = nil
 
 	return head
 }
