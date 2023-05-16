@@ -1,18 +1,14 @@
 package RemoveDuplicatesfromSortedArray
 
 func removeDuplicates(nums []int) int {
-	j := 0
-	numLen := len(nums)
-	if numLen == 0 {
-		return 0
-	}
+	var i = 0
 
-	for i := 0; i < numLen; i++ {
+	for j := 0; j < len(nums); j++ {
 		if nums[i] != nums[j] {
-			j++
-			nums[j] = nums[i]
+			i++
+			nums[i] = nums[j]
 		}
 	}
 
-	return j + 1
+	return i + 1
 }
