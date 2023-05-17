@@ -1,5 +1,7 @@
 package maximum_depth_of_binary_tree
 
+import "math"
+
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -19,12 +21,5 @@ func maxDepth(root *TreeNode) int {
 		return 0
 	}
 
-	return max(maxDepth(root.Left), maxDepth(root.Right)) + 1
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
+	return int(math.Max(float64(maxDepth(root.Left)), float64(maxDepth(root.Right))) + 1)
 }
