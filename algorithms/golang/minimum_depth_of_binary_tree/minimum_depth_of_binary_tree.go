@@ -1,7 +1,5 @@
 package minimum_depth_of_binary_tree
 
-import "math"
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -21,26 +19,30 @@ func minDepth(root *TreeNode) int {
 		return 0
 	}
 
-	if root.Left == nil && root.Right == nil {
-		return 1
+	queue := []*TreeNode{root}
+	depth := 1
+
+	for len(queue) > 0 {
+		queLen := len(queue)
+
+		for i := 0; i < queLen; i++ {
+			node := queue[0]
+			queue = queue[1:]
+
+			if node.Left == nil && node.Right == nil {
+				return depth
+			}
+
+			if node.Left != nil {
+				queue = append(queue, node.Left)
+			}
+
+			if node.Right != nil {
+				queue = append(queue, node.Right)
+			}
+		}
+		depth++
 	}
 
-	minDep := math.MaxInt32
-	if root.Left != nil {
-		minDep = min(minDepth(root.Left), minDep)
-	}
-
-	if root.Right != nil {
-		minDep = min(minDepth(root.Right), minDep)
-	}
-
-	return minDep + 1
-}
-
-func min(a, b int) int {
-	if a > b {
-		return b
-	} else {
-		return a
-	}
+	return depth
 }
