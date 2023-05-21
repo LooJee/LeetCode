@@ -1,4 +1,4 @@
-package binary_search
+package binarysearch
 
 import "testing"
 
