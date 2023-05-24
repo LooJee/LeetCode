@@ -2,16 +2,46 @@ package longestsubstringwithoutrepeatingcharacters
 
 import "testing"
 
-func TestLengthOfLongestSubstring(t *testing.T) {
-	if lengthOfLongestSubstring("abcabcbb") != 3 {
-		t.Fatal("should be 3")
+func Test_lengthOfLongestSubstring(t *testing.T) {
+	type args struct {
+		s string
 	}
-
-	if lengthOfLongestSubstring("bbbbb") != 1 {
-		t.Fatal("should be 1")
+	tests := []struct {
+		name string
+		args args
+		want int
+	}{
+		{
+			name: "abcabcbb",
+			args: args{
+				s: "abcabcbb",
+			},
+			want: 3,
+		}, {
+			name: "bbbbb",
+			args: args{
+				s: "bbbbb",
+			},
+			want: 1,
+		}, {
+			name: "pwwkew",
+			args: args{
+				s: "pwwkew",
+			},
+			want: 3,
+		}, {
+			name: " ",
+			args: args{
+				s: " ",
+			},
+			want: 1,
+		},
 	}
-
-	if lengthOfLongestSubstring("pwwkew") != 3 {
-		t.Fatal("should be 3")
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := lengthOfLongestSubstring(tt.args.s); got != tt.want {
+				t.Errorf("lengthOfLongestSubstring() = %v, want %v", got, tt.want)
+			}
+		})
 	}
 }
