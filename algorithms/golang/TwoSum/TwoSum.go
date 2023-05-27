@@ -1,15 +1,15 @@
 package TwoSum
 
 func twoSum(nums []int, target int) []int {
-	numLen := len(nums)
-	numDict := make(map[int]int)
+	m := make(map[int]int)
 
-	for i := 0; i < numLen; i++ {
-		if idx, ok := numDict[target-nums[i]]; ok {
-			return []int{idx, i}
-		} else {
-			numDict[nums[i]] = i
+	for idx, num := range nums {
+		if v, ok := m[target-num]; ok && v != idx {
+			return []int{idx, v}
 		}
+
+		m[num] = idx
 	}
-	return nil
+
+	return []int{}
 }
