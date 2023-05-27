@@ -11,39 +11,42 @@ func fourSum(nums []int, target int) [][]int {
 
 	results := make([][]int, 0)
 
-	s := 0
+	a := 0
 
-	for s < len(nums)-3 {
-		l := s + 1
-		for l < len(nums)-2 {
-			r := l + 1
-			e := len(nums) - 1
-			for r < e {
-				sum := nums[s] + nums[l] + nums[r] + nums[e]
+	for a < len(nums)-3 {
+		b := a + 1
+		for b < len(nums)-2 {
+			c, d := b+1, len(nums)-1
+
+			for c < d {
+				sum := nums[a] + nums[b] + nums[c] + nums[d]
+
 				if sum <= target {
 					if sum == target {
-						results = append(results, []int{nums[s], nums[l], nums[r], nums[e]})
+						results = append(results, []int{nums[a], nums[b], nums[c], nums[d]})
 					}
-					r++
-					for nums[r] == nums[r-1] && r < e {
-						r++
+
+					c++
+					for nums[c] == nums[c-1] && c < d {
+						c++
 					}
-				} else {
-					e--
-					for nums[e] == nums[e+1] && r < e {
-						e--
+				} else if sum > target {
+					d--
+					for nums[d] == nums[d+1] && c < d {
+						d--
 					}
 				}
 			}
 
-			l++
-			for nums[l] == nums[l-1] && l < len(nums)-2 {
-				l++
+			b++
+			for nums[b] == nums[b-1] && b < len(nums)-2 {
+				b++
 			}
 		}
-		s++
-		for nums[s] == nums[s-1] && s < len(nums)-3 {
-			s++
+
+		a++
+		for nums[a] == nums[a-1] && a < len(nums)-3 {
+			a++
 		}
 	}
 
