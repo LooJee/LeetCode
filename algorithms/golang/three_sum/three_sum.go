@@ -15,27 +15,31 @@ func threeSum(nums []int) [][]int {
 	k := len(nums) - 1
 
 	for i < len(nums)-2 {
+		remain := 0 - nums[i]
 		for j < k {
-			sum := nums[i] + nums[j] + nums[k]
-			if sum <= 0 {
-				if sum == 0 {
-					result = append(result, []int{nums[i], nums[j], nums[k]})
-				}
+			if nums[j] == nums[j-1] && j-1 != i {
 				j++
-				for nums[j] == nums[j-1] && j < k {
-					j++
-				}
-			} else {
+				continue
+			}
+
+			if nums[j]+nums[k] == remain {
+				result = append(result, []int{nums[i], nums[j], nums[k]})
+				j++
+			} else if nums[j]+nums[k] < remain {
+				j++
+			} else if nums[j]+nums[k] > remain {
 				k--
 				for nums[k] == nums[k+1] && j < k {
 					k--
 				}
 			}
 		}
+
 		i++
 		for nums[i] == nums[i-1] && i < len(nums)-2 {
 			i++
 		}
+
 		j = i + 1
 		k = len(nums) - 1
 	}
