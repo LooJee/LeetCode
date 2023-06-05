@@ -1,21 +1,17 @@
 package climbing_stairs
 
 func climbStairs(n int) int {
-	if n == 0 {
-		return 0
+	var (
+		a, b = 1, 2
+	)
+
+	if n <= 2 {
+		return n
 	}
 
-	stairs := make([]int, n)
-
-	for i := 0; i < n; i++ {
-		if i == 0 {
-			stairs[i] = 1
-		} else if i == 1 {
-			stairs[i] = 2
-		} else {
-			stairs[i] = stairs[i-1] + stairs[i-2]
-		}
+	for i := 3; i <= n; i++ {
+		a, b = b, a+b
 	}
 
-	return stairs[n-1]
+	return b
 }
