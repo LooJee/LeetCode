@@ -23,5 +23,5 @@ func equalPairs(grid [][]int) int {
 		cnt += memos[cols[i]]
 	}
 
-	return cnt
+	return cnt		
 }
