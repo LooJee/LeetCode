@@ -263,3 +263,8 @@ leetcode solution
 | 63    | [股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/)                                                     | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_max_profit/lcof_max_profit.go)                                 | Medium     |
 | 64    | [求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/)                                                                           | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/lcof_sum_nums/lcof_sum_nums.go)                                     | Medium     |
 
+# 程序员面试金典
+
+| #     | Title                                                     | Solution                                                                                         | Difficulty |
+| ----- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- |
+| 16.19 | [水域大小](https://leetcode.cn/problems/pond-sizes-lcci/) | [golang](https://github.com/loojee/leetcode/blob/master/algorithms/golang/pondsizeslcci/main.go) | Medium     |
